@@ -1,0 +1,9 @@
+[book]
+authors = ["Electro"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Aethrox Bot"
+
+[output.html]
+git-repository-url = "https://github.com/electrodsc/aethroxbot-mdfiles"
