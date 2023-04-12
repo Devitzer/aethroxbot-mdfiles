@@ -1,4 +1,3 @@
-# index
 # Introduction
 
 Welcome to the **AethroxBot Wiki!** <br> <br>

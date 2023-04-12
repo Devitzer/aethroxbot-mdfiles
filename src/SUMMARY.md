@@ -6,6 +6,10 @@
   - [Arguements](introduction/arguements.md)
   - [Syntax](introduction/syntax.md)
 
+# Guides
+
+- [Guides](./guides.md)
+
 # Commands
 
 - [General Commands](./commandsIntro.md)
@@ -20,3 +24,6 @@
   - [$timeout](moderationCommands/timeout.md)
   - [$untimeout](moderationCommands/untimeout.md)
   - [$warn](moderationCommands/warn.md)
+
+- [Economy Commands](./economyCommands.md)
+  - [$balance](economyCommands/balance.md)
