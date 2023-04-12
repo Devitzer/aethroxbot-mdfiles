@@ -7,3 +7,7 @@ title = "Aethrox Bot"
 
 [output.html]
 git-repository-url = "https://github.com/electrodsc/aethroxbot-mdfiles"
+
+[output.html.fold]
+enable = true
+level = 0
